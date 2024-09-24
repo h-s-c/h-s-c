@@ -30,5 +30,5 @@
   <img src="https://images.credly.com/size/3125x3125/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" title="HashiCorp Certified Terraform Associate" alt="HashiCorp Certified Terraform Associate" width="125" height="125"/>&nbsp;
   <!-- <img src="https://images.credly.com/size/3125x3125/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" title="CKS" alt="CKS" width="125" height="125"/> -->
   <img src="https://images.credly.com/size/3125x3125/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" title="Certified Kubernetes Administrator" alt="Certified Kubernetes Administrator" width="125" height="125"/>&nbsp;
-  <img src="https://images.credly.com/size/3125x3125/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" title="Certified Kubernetes Application Developer" alt="Certified Kubernetes Application Developer" width="125" height="125"/>
+  <img src="https://images.credly.com/images/f88d800c-5261-45c6-9515-0458e31c3e16/twitter_thumb_201604_ckad_from_cncfsite.png" title="Certified Kubernetes Application Developer" alt="Certified Kubernetes Application Developer" width="125" height="125"/>&nbsp;
 </div>
